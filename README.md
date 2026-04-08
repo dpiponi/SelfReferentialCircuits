@@ -15,3 +15,7 @@ There are two ideas here:
 <div align="center">
 <img alt="image" src="https://github.com/user-attachments/assets/7944ef20-1249-40f7-a9d4-f09dbb851d84" />
 </div>
+
+The interpretation of letterless GL as circuits is, AFAIK, mine. The completness theorem is based on Boolos' book except it has been rewritten so it uses the language of circuits rather than Kripke semantics. The entire formalization was written by Codex.
+
+![image](https://github.com/user-attachments/assets/71b687ad-ac01-467a-8445-b7b316627ace)
