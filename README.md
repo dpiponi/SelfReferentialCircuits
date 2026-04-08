@@ -19,3 +19,5 @@ There are two ideas here:
 The interpretation of letterless GL as circuits is, AFAIK, mine. The completness theorem is based on Boolos' book except it has been rewritten so it uses the language of circuits rather than Kripke semantics. The entire formalization was written by Codex.
 
 ![image](https://github.com/user-attachments/assets/71b687ad-ac01-467a-8445-b7b316627ace)
+
+Note I'm not proving the fixed point theorem here. I'm really just proving that the system here is equivalent to Letterless GL and now you can apply any theorem in the book to it. But we could formalize the rest of the book too...
